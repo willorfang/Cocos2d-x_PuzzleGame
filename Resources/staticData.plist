@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>itemSize</key>
+	<string>{60,60}</string>
+	<key>item</key>
+	<array>
+		<string>item_1.jpg</string>
+		<string>item_2.jpg</string>
+		<string>item_3.jpg</string>
+		<string>item_4.jpg</string>
+		<string>item_5.jpg</string>
+		<string>item_6.jpg</string>
+	</array>
+	<key>background</key>
+	<string>background.jpg</string>
+	<key>music</key>
+	<string>background.mp3</string>
+	<key>sound</key>
+	<string>sound.wav</string>
+</dict>
+</plist>

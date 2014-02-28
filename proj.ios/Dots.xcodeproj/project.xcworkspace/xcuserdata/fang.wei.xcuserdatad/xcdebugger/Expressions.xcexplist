@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DotsLayer::addDotsMoved(cocos2d::CCPoint):DotsLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cocos2d::CCActionManager::addAction(cocos2d::CCAction*, cocos2d::CCNode*, bool):CCActionManager.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

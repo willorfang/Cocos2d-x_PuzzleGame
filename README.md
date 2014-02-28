@@ -1,4 +1,4 @@
-Cocos2d-x_PuzzleGame
-====================
+Dots
+====
 
-A sample puzzle game using cocos2d-x
+a puzzle game demo using cocos2d-x
